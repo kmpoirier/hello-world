@@ -1,3 +1,4 @@
-# hello-world
-This repository is for practicing the GitHub Flow
-these are new comments from readme-edits
+# Hello World
+**this is a test for BIOL 668**
+
+My favorite animal is a kiwi
