@@ -1,4 +1,5 @@
-# Hello World
-**this is a test for BIOL 668**
+# BIOL 668
 
-My favorite animal is a kiwi
+This repository contains all projects for BIOL 668
+
+1. Linux Project
